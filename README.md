@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diwesh kumar tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diwesh kumar tiwari" height="30" width="40" /></a>
-<a href="https://fb.com/diwesh tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diwesh tiwari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diwesh-kumar-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diwesh-kumar-tiwari" height="30" width="40" /></a>
+<a href="https://fb.com/diwesh.tiwari.79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diwesh.tiwari.79" height="30" width="40" /></a>
 <a href="https://instagram.com/_iamdevs_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_iamdevs_09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devs_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devs_01" height="30" width="40" /></a>
 </p>
